@@ -1,4 +1,4 @@
-
+[
 PHANToM_Sleep = 0.000001;
 PHANToM_Round = 8;
 
@@ -530,3 +530,4 @@ else if(Notification == 2){Notification = "Line : phantom1669"}
 else if(Notification == 3){Notification = "ไฟล์แจก by PHANToM"}
 else if(Notification == 4){Notification = "Auto Update Script"}
 Notification = "อัปเดท 24 ก.ย._22:22 น."
+](https://raw.githubusercontent.com/OilOmakase/Phantom/main/Phantomnew.md)https://raw.githubusercontent.com/OilOmakase/Phantom/main/Phantomnew.md
